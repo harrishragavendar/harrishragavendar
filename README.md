@@ -28,4 +28,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harrishragavendar&" alt="harrishragavendar" /></p>
 # Now Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31v6pvoxphilo63ijnfpfoeut6ru?si=706fb369d2d74e40) 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31ovqp76kiegay2u4twfcew5ij7m?si=CTDqQBI7SjePHXQhBZo5RA&utm) 
