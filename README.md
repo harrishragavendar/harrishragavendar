@@ -9,7 +9,10 @@
 
 ## - 📫 How to reach me **harrishragavendar55@gmail.com**
 
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px">
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="170px" width="170px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="170px" width="170px">
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="170px" width="170px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="170px" width="170px">
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="170px" width="170px"> 
+
 <h1 align="left">Connect with Me</h1>
 <p align="left">
 <a href="https://linkedin.com/in/harrish-ragavendar-s-853a221b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harrish-ragavendar-s-853a221b9" height="30" width="40" /></a>
