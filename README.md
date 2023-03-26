@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harrish Ragavendar</h1>
+<p align="center"> <img src="[https://komarev.com/ghpvc/?username=harrishragavendar&label=Profile%20views&color=0e75b6&style=flat](https://drive.google.com/file/d/1VU21hvRDfAhcixLT27WQAWDOAX5JJfXO/view?usp=share_link)" alt="harrishragavendar" /> </p>
 <h2 align="center">☁️🔨AWS Community Builder🔨☁️</h2>
 <h3 align="center">Aspiring to become a Cloud Architect</h3>
 
