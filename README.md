@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harrish Ragavendar</h1>
-<p align="center"> <img src="https://drive.google.com/file/d/1VU21hvRDfAhcixLT27WQAWDOAX5JJfXO/view?usp=share_link" alt="harrishragavendar" /> </p>
+<p align="center"> <img src="https://josecastillolema.github.io/assets/images/posts/2021-05-15-aws-community-builder.png" alt="harrishragavendar" /> </p>
 <h2 align="center">☁️🔨AWS Community Builder🔨☁️</h2>
 <h3 align="center">Aspiring to become a Cloud Architect</h3>
 
