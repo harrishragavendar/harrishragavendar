@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harrish Ragavendar S</h1>
-<h3 align="center">A Sophomore aspiring to become a Cloud Engineer.</h3>
+<h2 align="center">☁️🔨AWS Community Builder🔨☁️</h2>
+<h3 align="center">Aspiring to become a Cloud Architect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harrishragavendar&label=Profile%20views&color=0e75b6&style=flat" alt="harrishragavendar" /> </p>
 
