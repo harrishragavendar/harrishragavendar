@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harrish Ragavendar S</h1>
+<h1 align="center">Hi 👋, I'm Harrish Ragavendar</h1>
 <h2 align="center">☁️🔨AWS Community Builder🔨☁️</h2>
 <h3 align="center">Aspiring to become a Cloud Architect</h3>
 
