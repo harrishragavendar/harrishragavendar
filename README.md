@@ -18,10 +18,10 @@
 
 <h1 align="left">Connect with Me</h1>
 <p align="left">
-<a href="https://linkedin.com/in/harrish-ragavendar-s-853a221b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harrish-ragavendar-s-853a221b9" height="30" width="40" /></a>
-<a href="https://kaggle.com/harrishragavendar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="harrishragavendar" height="30" width="40" /></a>
-<a href="https://instagram.com/harrish_ragavendar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/harrish_ragavendar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/harrishragavendar55/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/harrishragavendar55/practice/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harrishragavendar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harrish-ragavendar-s-853a221b9" height="30" width="40" /></a>
+<a href="https://kaggle.com/harrish1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="harrishragavendar" height="30" width="40" /></a>
+<a href="https://instagram.com/harrish015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/harrish_ragavendar" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/harrish15/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/harrish15/practice/" height="30" width="40" /></a>
 </p>
 <img width="30%" align="center" alt="Github Header" src="coding.gif" />
 
