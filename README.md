@@ -9,7 +9,7 @@
 
 ## - 🌱 I’m currently learning **Cloud Computing**
 
-## - 📫 How to reach me **harrishragavendar55@gmail.com**
+## - 📫 How to reach me **harrishragavendar@gmail.com**
 
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="170px" width="170px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="170px" width="170px">
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="170px" width="170px"> 
